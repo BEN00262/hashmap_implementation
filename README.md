@@ -1,0 +1,1 @@
+#### A stupid implementation of a hashtable in golang :)
